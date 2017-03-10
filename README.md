@@ -8,7 +8,7 @@ npm install && grunt serve
 
 Video:
 
-_Will be uploaded soon_
+YouTube: https://www.youtube.com/watch?v=dXXMf6RgB6s
 
 ## License
 
